@@ -1,9 +1,3 @@
-//
-//  L10n.swift
-//  Finanse-Tracker
-//
-//  Created by Володимир Гончарук on 31.10.2025.
-//
 
 import Foundation
 

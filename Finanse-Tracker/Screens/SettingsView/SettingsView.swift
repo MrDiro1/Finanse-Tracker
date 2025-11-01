@@ -1,9 +1,3 @@
-//
-//  SettingsView.swift
-//  Finanse-Tracker
-//
-//  Created by Володимир Гончарук on 26.10.2025.
-//
 
 import SwiftUI
 

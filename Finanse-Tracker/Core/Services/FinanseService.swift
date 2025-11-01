@@ -1,9 +1,3 @@
-//
-//  FinanseService.swift
-//  Finanse-Tracker
-//
-//  Created by Володимир Гончарук on 27.10.2025.
-//
 
 import SwiftData
 import Foundation

@@ -1,9 +1,3 @@
-//
-//  ContentView.swift
-//  Finanse-Tracker
-//
-//  Created by Володимир Гончарук on 25.10.2025.
-//
 
 import SwiftUI
 import SwiftData

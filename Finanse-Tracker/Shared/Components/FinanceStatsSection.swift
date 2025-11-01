@@ -1,9 +1,3 @@
-//
-//  FinanceStatsSection.swift
-//  Finanse-Tracker
-//
-//  Created by Володимир Гончарук on 29.10.2025.
-//
 
 import SwiftUI
 

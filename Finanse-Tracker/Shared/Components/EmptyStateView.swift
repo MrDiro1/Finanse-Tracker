@@ -1,9 +1,3 @@
-//
-//  EmptyStateView.swift
-//  Finanse-Tracker
-//
-//  Created by Володимир Гончарук on 30.10.2025.
-//
 
 import SwiftUI
 

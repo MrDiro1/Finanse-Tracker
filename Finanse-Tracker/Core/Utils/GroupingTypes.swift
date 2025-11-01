@@ -1,9 +1,3 @@
-//
-//  GroupingTypes.swift
-//  Finanse-Tracker
-//
-//  Created by Володимир Гончарук on 28.10.2025.
-//
 
 import Foundation
 
