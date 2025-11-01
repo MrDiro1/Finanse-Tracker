@@ -1,0 +1,88 @@
+//
+//  Localizable.strings
+//  Finanse-Tracker
+//
+//  Created by Володимир Гончарук on 31.10.2025.
+//
+
+"finances" = "Фінанси";
+"search_by_category" = "Пошук за категорією";
+"ok" = "Гаразд";
+
+"finance_tab" = "Фінанси";
+"charts_tab" = "Графіки";
+"settings_tab" = "Налаштування";
+
+"dark_theme" = "Темна тема";
+"change_language" = "Змінити мову застосунку";
+
+"statistics" = "Статистика";
+"income" = "Дохід";
+"expense" = "Витрати";
+
+"type" = "Тип";
+"amount" = "Сума";
+"enter_amount" = "Введіть суму";
+"category" = "Категорія";
+"date" = "Дата";
+"small_note" = "Нотатка";
+"create_entry" = "Створити запис";
+"save" = "Зберегти";
+
+"total" = "Разом";
+"average" = "Середнє";
+"max" = "Максимум";
+
+"day" = "День";
+"month" = "Місяць";
+"year" = "Рік";
+
+"fetch_error_title" = "Помилка завантаження";
+"fetch_error_message" = "Не вдалося завантажити фінансові дані. Спробуйте ще раз.";
+
+"save_error_title" = "Помилка збереження";
+"save_error_message" = "Не вдалося зберегти фінансовий запис.";
+
+"delete_error_title" = "Помилка видалення";
+"delete_error_message" = "Не вдалося видалити фінансовий запис.";
+
+"unknown_error_title" = "Невідома помилка";
+"unknown_error_message" = "Сталася непередбачена помилка:";
+
+"emptyNoDataTitle" = "Тут поки нічого немає";
+"emptyNoResultsTitle" = "Нічого не знайдено";
+"emptyNoDataSubtitle" = "Натисніть на плюс у правому верхньому куті, щоб додати запис";
+"emptyNoResultsSubtitle" = "Перевірте правильність введення або спробуйте інший запит";
+
+"delete" = "Видалити";
+"change" = "Редагувати";
+
+"category_salary" = "Зарплата";
+"category_food" = "Їжа";
+"category_transport" = "Транспорт";
+"category_freelance" = "Фріланс";
+"category_entertainment" = "Розваги";
+"category_gifts" = "Подарунки";
+"category_selling_items" = "Продаж речей";
+"category_water" = "Вода";
+"category_cafe" = "Кафе";
+"category_restaurant" = "Ресторан";
+"category_pharmacy" = "Аптека";
+"category_significant_other" = "Кохана людина";
+"category_online_shopping" = "Онлайн покупки";
+"category_rent" = "Оренда";
+"category_gift" = "Подарунок";
+"category_birthday" = "День народження";
+"category_fun" = "Веселощі";
+"category_cinema" = "Кіно";
+"category_transfers" = "Перекази";
+
+"categories_title" = "Категорії";
+"add_category" = "Додати категорію";
+"cancel" = "Скасувати";
+"enter_category" = "Введіть категорію";
+"type" = "Тип";
+"income" = "Дохід";
+"expense" = "Витрати";
+"categories" = "Категорії";
+"add" = "Додати";

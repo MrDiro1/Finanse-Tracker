@@ -1,0 +1,89 @@
+//
+//  Localizable.strings
+//  Finanse-Tracker
+//
+//  Created by Володимир Гончарук on 31.10.2025.
+//
+
+
+"finances" = "Finanse";
+"search_by_category" = "Szukaj według kategorii";
+"ok" = "OK";
+
+"finance_tab" = "Finanse";
+"charts_tab" = "Wykresy";
+"settings_tab" = "Ustawienia";
+
+"dark_theme" = "Ciemny motyw";
+"change_language" = "Zmień język aplikacji";
+
+"statistics" = "Statystyki";
+"income" = "Dochód";
+"expense" = "Wydatek";
+
+"type" = "Typ";
+"amount" = "Kwota";
+"enter_amount" = "Wprowadź kwotę";
+"category" = "Kategoria";
+"date" = "Data";
+"small_note" = "Krótka notatka";
+"create_entry" = "Utwórz wpis";
+"save" = "Zapisz";
+
+"total" = "Suma";
+"average" = "Średnia";
+"max" = "Maksimum";
+
+"day" = "Dzień";
+"month" = "Miesiąc";
+"year" = "Rok";
+
+"fetch_error_title" = "Błąd pobierania";
+"fetch_error_message" = "Nie udało się załadować danych finansowych. Spróbuj ponownie.";
+
+"save_error_title" = "Błąd zapisu";
+"save_error_message" = "Nie udało się zapisać wpisu finansowego.";
+
+"delete_error_title" = "Błąd usuwania";
+"delete_error_message" = "Nie udało się usunąć wpisu finansowego.";
+
+"unknown_error_title" = "Nieznany błąd";
+"unknown_error_message" = "Wystąpił nieoczekiwany błąd:";
+
+"emptyNoDataTitle" = "Nie ma tu jeszcze nic do pokazania";
+"emptyNoResultsTitle" = "Brak wyników";
+"emptyNoDataSubtitle" = "Kliknij plus w prawym górnym rogu, aby dodać wpis";
+"emptyNoResultsSubtitle" = "Sprawdź pisownię lub spróbuj innego wyszukiwania";
+
+"delete" = "Usuń";
+"change" = "Zmień";
+
+"category_salary" = "Pensja";
+"category_food" = "Jedzenie";
+"category_transport" = "Transport";
+"category_freelance" = "Freelance";
+"category_entertainment" = "Rozrywka";
+"category_gifts" = "Prezenty";
+"category_selling_items" = "Sprzedaż rzeczy";
+"category_water" = "Woda";
+"category_cafe" = "Kawiarnia";
+"category_restaurant" = "Restauracja";
+"category_pharmacy" = "Apteka";
+"category_significant_other" = "Druga połówka";
+"category_online_shopping" = "Zakupy online";
+"category_rent" = "Czynsz";
+"category_gift" = "Prezent";
+"category_birthday" = "Urodziny";
+"category_fun" = "Zabawa";
+"category_cinema" = "Kino";
+"category_transfers" = "Przelewy";
+
+"categories_title" = "Kategorie";
+"add_category" = "Dodaj kategorię";
+"cancel" = "Anuluj";
+"enter_category" = "Wpisz kategorię";
+"type" = "Typ";
+"income" = "Dochód";
+"expense" = "Wydatek";
+"categories" = "Kategorie";
+"add" = "Dodaj";

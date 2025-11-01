@@ -1,0 +1,85 @@
+//
+//  Localizable.strings
+//  Finanse-Tracker
+//
+//  Created by Володимир Гончарук on 31.10.2025.
+//
+
+
+"finances" = "Finances";
+"search_by_category" = "Search by category";
+"ok" = "OK";
+
+"finance_tab" = "Finance";
+"charts_tab" = "Charts";
+"settings_tab" = "Settings";
+
+"dark_theme" = "Dark Theme";
+"change_language" = "Change App Language";
+
+"statistics" = "Statistics";
+"income" = "Income";
+"expense" = "Expense";
+
+"type" = "Type";
+"amount" = "Amount";
+"enter_amount" = "Enter amount";
+"category" = "Category";
+"date" = "Date";
+"small_note" = "Small note";
+"create_entry" = "Create an entry";
+"save" = "Save";
+
+"total" = "Total";
+"average" = "Average";
+"max" = "Max";
+
+"day" = "Day";
+"month" = "Month";
+"year" = "Year";
+
+"fetch_error_title" = "Fetch Error";
+"fetch_error_message" = "Unable to load finance data. Please try again.";
+
+"save_error_title" = "Save Error";
+"save_error_message" = "Failed to save the finance entry.";
+
+"delete_error_title" = "Delete Error";
+"delete_error_message" = "Failed to delete the finance entry.";
+
+"unknown_error_title" = "Unknown Error";
+"unknown_error_message" = "An unexpected error occurred:";
+
+"emptyNoDataTitle" = "There's Nothing to show here";
+"emptyNoResultsTitle" = "No Results";
+"emptyNoDataSubtitle" = "Click the plus in the top right corner to add an entry";
+"emptyNoResultsSubtitle" = "Check the spelling or try a new search";
+
+"delete" = "Delete";
+"change" = "Change";
+
+"category_salary" = "Salary";
+"category_food" = "Food";
+"category_transport" = "Transport";
+"category_freelance" = "Freelance";
+"category_entertainment" = "Entertainment";
+"category_gifts" = "Gifts";
+"category_selling_items" = "Selling Items";
+"category_water" = "Water";
+"category_cafe" = "Cafe";
+"category_restaurant" = "Restaurant";
+"category_pharmacy" = "Pharmacy";
+"category_significant_other" = "Significant Other";
+"category_online_shopping" = "Online Shopping";
+"category_rent" = "Rent";
+"category_gift" = "Gift";
+"category_birthday" = "Birthday";
+"category_fun" = "Fun";
+"category_cinema" = "Cinema";
+"category_transfers" = "Transfers";
+"categories" = "Categories";
+"add" = "Add";
+"add_category" = "Add Category";
+"enter_category" = "Enter Category";
+
+

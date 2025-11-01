@@ -1,0 +1,58 @@
+# Xcode
+DerivedData/
+build/
+*.xcuserstate
+*.xccheckout
+*.xcscmblueprint
+*.xcworkspace/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+*.xcuserdatad/
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Swift Package Manager
+.swiftpm/
+.build/
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Carthage
+Carthage/Build/
+# Accio dependency management
+Dependencies/
+.accio/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output/
+
+# User data
+*.DS_Store
+*.idea/
+*.orig
+*.swp
+*.log
+
+# Output
+*.xcarchive
+
+# Firebase / Secrets
+GoogleService-Info.plist
+Secrets.swift
+.env
+
+# Other
+*.plist~
+*.lock
+
+
+
+

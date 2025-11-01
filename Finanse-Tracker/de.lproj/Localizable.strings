@@ -1,0 +1,89 @@
+//
+//  Localizable.strings
+//  Finanse-Tracker
+//
+//  Created by Володимир Гончарук on 31.10.2025.
+//
+
+
+"finances" = "Finanzen";
+"search_by_category" = "Nach Kategorie suchen";
+"ok" = "OK";
+
+"finance_tab" = "Finanzen";
+"charts_tab" = "Diagramme";
+"settings_tab" = "Einstellungen";
+
+"dark_theme" = "Dunkles Thema";
+"change_language" = "App-Sprache ändern";
+
+"statistics" = "Statistiken";
+"income" = "Einnahmen";
+"expense" = "Ausgaben";
+
+"type" = "Typ";
+"amount" = "Betrag";
+"enter_amount" = "Betrag eingeben";
+"category" = "Kategorie";
+"date" = "Datum";
+"small_note" = "Kleine Notiz";
+"create_entry" = "Eintrag erstellen";
+"save" = "Speichern";
+
+"total" = "Gesamt";
+"average" = "Durchschnitt";
+"max" = "Maximum";
+
+"day" = "Tag";
+"month" = "Monat";
+"year" = "Jahr";
+
+"fetch_error_title" = "Ladefehler";
+"fetch_error_message" = "Finanzdaten konnten nicht geladen werden. Bitte versuche es erneut.";
+
+"save_error_title" = "Speicherfehler";
+"save_error_message" = "Der Finanzeintrag konnte nicht gespeichert werden.";
+
+"delete_error_title" = "Löschfehler";
+"delete_error_message" = "Der Finanzeintrag konnte nicht gelöscht werden.";
+
+"unknown_error_title" = "Unbekannter Fehler";
+"unknown_error_message" = "Ein unerwarteter Fehler ist aufgetreten:";
+
+"emptyNoDataTitle" = "Hier gibt es nichts zu zeigen";
+"emptyNoResultsTitle" = "Keine Ergebnisse";
+"emptyNoDataSubtitle" = "Tippe auf das Plus oben rechts, um einen Eintrag hinzuzufügen";
+"emptyNoResultsSubtitle" = "Überprüfe die Schreibweise oder versuche eine neue Suche";
+
+"delete" = "Löschen";
+"change" = "Ändern";
+
+"category_salary" = "Gehalt";
+"category_food" = "Essen";
+"category_transport" = "Transport";
+"category_freelance" = "Freiberuflich";
+"category_entertainment" = "Unterhaltung";
+"category_gifts" = "Geschenke";
+"category_selling_items" = "Verkaufte Artikel";
+"category_water" = "Wasser";
+"category_cafe" = "Café";
+"category_restaurant" = "Restaurant";
+"category_pharmacy" = "Apotheke";
+"category_significant_other" = "Partner";
+"category_online_shopping" = "Online-Einkauf";
+"category_rent" = "Miete";
+"category_gift" = "Geschenk";
+"category_birthday" = "Geburtstag";
+"category_fun" = "Spaß";
+"category_cinema" = "Kino";
+"category_transfers" = "Überweisungen";
+
+"categories_title" = "Kategorien";
+"add_category" = "Kategorie hinzufügen";
+"cancel" = "Abbrechen";
+"enter_category" = "Kategorie eingeben";
+"type" = "Typ";
+"income" = "Einnahme";
+"expense" = "Ausgabe";
+"categories" = "Kategorien";
+"add" = "Hinzufügen";

@@ -1,0 +1,90 @@
+//
+//  Localizable.strings
+//  Finanse-Tracker
+//
+//  Created by Володимир Гончарук on 31.10.2025.
+//
+
+
+"finances" = "Финансы";
+"search_by_category" = "Поиск по категории";
+"ok" = "ОК";
+
+"finance_tab" = "Финансы";
+"charts_tab" = "Графики";
+"settings_tab" = "Настройки";
+
+"dark_theme" = "Тёмная тема";
+"change_language" = "Изменить язык приложения";
+
+"statistics" = "Статистика";
+"income" = "Доход";
+"expense" = "Расход";
+
+"type" = "Тип";
+"amount" = "Сумма";
+"enter_amount" = "Введите сумму";
+"category" = "Категория";
+"date" = "Дата";
+"small_note" = "Заметка";
+"create_entry" = "Создать запись";
+"save" = "Сохранить";
+
+"total" = "Всего";
+"average" = "Среднее";
+"max" = "Максимум";
+
+"day" = "День";
+"month" = "Месяц";
+"year" = "Год";
+
+"fetch_error_title" = "Ошибка загрузки";
+"fetch_error_message" = "Не удалось загрузить данные. Попробуйте снова.";
+
+"save_error_title" = "Ошибка сохранения";
+"save_error_message" = "Не удалось сохранить запись.";
+
+"delete_error_title" = "Ошибка удаления";
+"delete_error_message" = "Не удалось удалить запись.";
+
+"unknown_error_title" = "Неизвестная ошибка";
+"unknown_error_message" = "Произошла непредвиденная ошибка:";
+
+"emptyNoDataTitle" = "Здесь пока ничего нет";
+"emptyNoResultsTitle" = "Ничего не найдено";
+"emptyNoDataSubtitle" = "Нажмите на плюс в правом верхнем углу, чтобы добавить запись";
+"emptyNoResultsSubtitle" = "Проверьте правильность ввода или попробуйте другой запрос";
+
+"delete" = "Удалить";
+"change" = "Изменить";
+
+"category_salary" = "Зарплата";
+"category_food" = "Еда";
+"category_transport" = "Транспорт";
+"category_freelance" = "Фриланс";
+"category_entertainment" = "Развлечения";
+"category_gifts" = "Подарки";
+"category_selling_items" = "Продажа вещей";
+"category_water" = "Вода";
+"category_cafe" = "Кафе";
+"category_restaurant" = "Ресторан";
+"category_pharmacy" = "Аптека";
+"category_significant_other" = "Вторая половинка";
+"category_online_shopping" = "Онлайн покупки";
+"category_rent" = "Аренда";
+"category_gift" = "Подарок";
+"category_birthday" = "День рождения";
+"category_fun" = "Развлечение";
+"category_cinema" = "Кино";
+"category_transfers" = "Переводы";
+
+"categories_title" = "Категории";
+"add_category" = "Добавить категорию";
+"cancel" = "Отмена";
+"enter_category" = "Введите категорию";
+"type" = "Тип";
+"income" = "Доход";
+"expense" = "Расход";
+"categories" = "Категории";
+"add" = "Добавить";
+
