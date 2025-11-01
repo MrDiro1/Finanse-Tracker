@@ -1,7 +1,13 @@
-# Finanse Tracker App
 # 💰 Finanse Tracker App
 
 A personal finance tracker built with **SwiftUI**, **Swift**, and **SwiftData**, following the **MVVM** architecture pattern.
+
+---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b8e20cd2-42aa-41a7-b605-2460c59d69ce" width="230" height="480" />
+  <img src="https://github.com/user-attachments/assets/9df06d2b-7f0a-49a8-abad-593a1812ed18" width="230" height="480" />
+</p>
 
 ---
 
