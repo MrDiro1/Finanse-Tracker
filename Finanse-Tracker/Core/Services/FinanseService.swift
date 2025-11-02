@@ -2,7 +2,13 @@
 import SwiftData
 import Foundation
 
-class FinanceService {
+protocol FinanceServiceProtocol {
+    func fetchAll() throws -> [FinanceItem]
+    func add(_ item: FinanceItem) throws
+    func delete(_ item: FinanceItem) throws
+}
+
+final class FinanceService: FinanceServiceProtocol {
     let modelContext: ModelContext
     
     init(modelContext: ModelContext) {
