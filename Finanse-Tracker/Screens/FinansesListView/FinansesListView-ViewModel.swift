@@ -6,7 +6,7 @@ import Observation
 
 extension FinansesListView {
     @Observable final class ViewModel {
-        let service: FinanceService
+        let service: FinanceServiceProtocol
         var items = [FinanceItem]()
         var searchText = ""
         var showingEditSheet = false
@@ -27,7 +27,7 @@ extension FinansesListView {
             DateGrouping.groupedItems(from: filteredItems, groupingType: groupingType)
         }
         
-        init(service: FinanceService) {
+        init(service: FinanceServiceProtocol) {
             self.service = service
             fetchData()
         }

@@ -6,7 +6,7 @@ import Observation
 extension AddFinanseCellView {
     @Observable
     class ViewModel {
-        let service: FinanceService
+        let service: FinanceServiceProtocol
         let onSave: () -> Void
         
         var amount: String = ""
@@ -21,7 +21,7 @@ extension AddFinanseCellView {
             !amount.isEmpty && Double(amount) != nil && !category.isEmpty
         }
         
-        init(service: FinanceService, onSave: @escaping () -> Void, amount: String, category: String, type: FinanceType, date: Date, note: String) {
+        init(service: FinanceServiceProtocol, onSave: @escaping () -> Void, amount: String, category: String, type: FinanceType, date: Date, note: String) {
             self.service = service
             self.onSave = onSave
             self.amount = amount

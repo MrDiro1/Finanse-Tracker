@@ -7,12 +7,12 @@ import SwiftUI
 extension ChartsView {
     @Observable
     final class ViewModel {
-        let service: FinanceService
+        let service: FinanceServiceProtocol
         var items = [FinanceItem]()
         var groupingType: GroupingType = .month
         var alertItem: AlertItem?
 
-        init(service: FinanceService) {
+        init(service: FinanceServiceProtocol) {
             self.service = service
             fetchData()
         }
